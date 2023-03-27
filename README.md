@@ -2,14 +2,21 @@
 
 I'm a full stack JavaScript web developer with a background in human resources and bachelor of psychology from Gadjah Mada University. I recently graduated from Purwadhika Digital Technology School, where I learned the following skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,express,git,github,materialui,mongodb,mysql,nodejs,postman,redux,sequelize,tailwind,vscode,&perline=5)](https://skillicons.dev)
-- HTML/CSS
-- JavaScript
-- ReactJS
-- NodeJS
-- ExpressJS
-- MySQL
-- MongoDB
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,react,redux,bootstrap,materialui,tailwind" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
 
 As a former HR professional, I bring strong communication, problem-solving, and attention to detail skills to my work as a developer. I enjoy creating responsive and user-friendly web applications that solve real-world problems.
 
