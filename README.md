@@ -21,10 +21,9 @@ I'm a full stack JavaScript web developer with a background in human resources a
 As a former HR professional, I bring strong communication, problem-solving, and attention to detail skills to my work as a developer. I enjoy creating responsive and user-friendly web applications that solve real-world problems.
 
 ## My GitHub Stats
-<p align="center">
+
 ![Metapanzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Metapanzer&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Metapanzer&layout=compact&theme=dark)
-</p>
 
 
 ## Connect with Me
