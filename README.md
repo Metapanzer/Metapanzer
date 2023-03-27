@@ -33,7 +33,7 @@ As a former HR professional, I bring strong communication, problem-solving, and 
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
     <a href="https://www.facebook.com/Baltheon/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/113227273/227855010-f01edf2f-3e41-4421-861c-e9e157c470e0.png" />
+    <img src="https://user-images.githubusercontent.com/113227273/227856348-4e5ecd48-acb6-4e5d-8663-b79a88d614f6.png" />
   </a>
     <a href="https://twitter.com/Baltheon" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
