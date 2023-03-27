@@ -24,10 +24,10 @@ As a former HR professional, I bring strong communication, problem-solving, and 
 
 ## My GitHub Stats
 <p align="center">
-    ![Metapanzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Metapanzer&show_icons=true&theme=dark)
+    <img src="https://github-readme-stats.vercel.app/api?username=Metapanzer&show_icons=true&theme=dark" />
 </p>
 <p align="center">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Metapanzer&layout=compact&theme=dark)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metapanzer&layout=compact&theme=dark" />
 </p>
 
 
