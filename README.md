@@ -1,6 +1,6 @@
 # Hi, I'm Krisna Sandy Pribadi 👋
 
-I'm a full stack JavaScript web developer with a background in psychology and human resources. I recently graduated from Purwadhika Digital Technology School, where I learned the following skills:
+I'm a full stack JavaScript web developer with a background in human resources and bachelor of psychology from Gadjah Mada University. I recently graduated from Purwadhika Digital Technology School, where I learned the following skills:
 
 - HTML/CSS
 - JavaScript
