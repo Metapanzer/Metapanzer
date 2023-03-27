@@ -14,9 +14,9 @@ As a former HR professional, I bring strong communication, problem-solving, and 
 
 ## My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Metapanzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Metapanzer&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/sandypribadi/(https://www.linkedin.com/in/yourlinkedinprofileurl/)
+- LinkedIn: [https://www.linkedin.com/in/sandypribadi/](https://www.linkedin.com/in/yourlinkedinprofileurl/)
 - Twitter: [https://twitter.com/Baltheon](https://twitter.com/yourtwitterhandle)
