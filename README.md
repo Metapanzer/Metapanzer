@@ -1,4 +1,4 @@
-# Hi, My name is Krisna Sandy Pribadi 👋
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=1000&width=435&lines=Hi%2C+my+name+is+Krisna+Sandy+Pribadi)](https://git.io/typing-svg)
 
 I'm a full stack JavaScript web developer with a background in human resources and bachelor of psychology from Gadjah Mada University. I recently graduated from Purwadhika Digital Technology School, where I learned the following skills:
 
