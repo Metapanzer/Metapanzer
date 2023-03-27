@@ -1,4 +1,4 @@
-# Hi, I'm Krisna Sandy Pribadi 👋
+# Hi, My name is Krisna Sandy Pribadi 👋
 
 I'm a full stack JavaScript web developer with a background in human resources and bachelor of psychology from Gadjah Mada University. I recently graduated from Purwadhika Digital Technology School, where I learned the following skills:
 
@@ -31,6 +31,9 @@ As a former HR professional, I bring strong communication, problem-solving, and 
 <p align="center">
   <a href="https://www.linkedin.com/in/sandypribadi" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+    <a href="https://www.facebook.com/Baltheon/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
     <a href="https://twitter.com/Baltheon" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
