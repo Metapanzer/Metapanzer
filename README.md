@@ -16,9 +16,7 @@ I'm a full stack JavaScript web developer with a background in human resources a
 </p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
-<p align="center">
-    <img src="https://icons8.com/icon/oROcPah5ues6/jira" />
+    <img src="https://user-images.githubusercontent.com/113227273/227856859-9bd0d600-82e5-4cb6-9d02-538534993367.png" />
 </p>
 
 
