@@ -2,6 +2,7 @@
 
 I'm a full stack JavaScript web developer with a background in human resources and bachelor of psychology from Gadjah Mada University. I recently graduated from Purwadhika Digital Technology School, where I learned the following skills:
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,express,git,github,materialui,mongodb,mysql,nodejs,postman,redux,sequelize,tailwind,vscode,&perline=5)](https://skillicons.dev)
 - HTML/CSS
 - JavaScript
 - ReactJS
