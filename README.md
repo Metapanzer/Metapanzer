@@ -1,17 +1,22 @@
-### Hi there 👋
-I'am Krisna Sandy Pribadi, Psychology graduates who has an excellent eye for detail due to the heavy demands of assignments and research. I also able to work under pressure, especially when balancing educational workload with my volunteering activities. I love technology as if that was my middle name. I am looking for a challenging, fast-paced environment within media to utilize my knowledge and develop my skill further, currently learning fullstack web developer.
+# Hi, I'm Krisna Sandy Pribadi 👋
 
-<!--
-**Metapanzer/Metapanzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack JavaScript web developer with a background in psychology and human resources. I recently graduated from Purwadhika Digital Technology School, where I learned the following skills:
 
-Here are some ideas to get you started:
+- HTML/CSS
+- JavaScript
+- ReactJS
+- NodeJS
+- ExpressJS
+- MySQL
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a former HR professional, I bring strong communication, problem-solving, and attention to detail skills to my work as a developer. I enjoy creating responsive and user-friendly web applications that solve real-world problems.
+
+## My GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/sandypribadi/(https://www.linkedin.com/in/yourlinkedinprofileurl/)
+- Twitter: [https://twitter.com/Baltheon](https://twitter.com/yourtwitterhandle)
