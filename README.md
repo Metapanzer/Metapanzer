@@ -3,7 +3,7 @@
 I'm a full stack JavaScript web developer with a background in human resources and bachelor of psychology from Gadjah Mada University. I recently graduated from Purwadhika Digital Technology School, where I learned the following skills:
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=js,go" />
 </p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,react,redux,bootstrap,materialui,tailwind" />
